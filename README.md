@@ -37,7 +37,7 @@
 
 - 🔧 [`GitLite`](https://github.com/rcortes-b/GitLite): a minimal Git implementation built from scratch in Python.
 - 🔄 [`minishell`](https://github.com/rcortes-b/minishell): a minimalist shell implemented from scratch in C.
-- 🌐 [`ft_transcendence`](https://github.com/asiernc/ft_transcendence42): a full-stack multiplayer game with backend and frontend features (collaborative project).
+- 🌐 [`ft_transcendence`](https://github.com/rcortes-b/ft_transcendence): a full-stack multiplayer game with backend and frontend features (collaborative project).
 - 🧱 More 42 and personal projects are available on my profile.
 
 ---
