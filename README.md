@@ -42,6 +42,15 @@
 
 ---
 
+### 🚧 Upcoming Projects
+
+- [ ] AI Project — Goal: Deepen understanding of how AI works  
+- [ ] Web Scraping Project — Collect and process data from the web  
+- [ ] Open Source Contribution — *Still deciding which project to join*  
+
+---
+
+
 ### 📊 GitHub Stats
 
 <p align="center">
