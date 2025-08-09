@@ -9,7 +9,7 @@
 ### 🧠 About Me
 
 - 🎓 I studied at <strong>42</strong>, a project-based, peer-to-peer coding school focused on self-directed learning.
-- 💻 I haven’t settled on a favorite niche yet — I’m curious about everything from algorithms to system administration.
+- 💻 My main interests are system administration, kernel and low-level development, as well as building startup-style apps.
 - 🛠️ I’m comfortable working with <strong>C</strong>, <strong>C++</strong>, and UNIX-based environments.
 - 🌱 Currently deepening my understanding of systems programming and low-level development tools.
 - 🚀 I’m looking for my first professional opportunity as a developer or systems technician where I can learn and contribute.
@@ -44,12 +44,11 @@
 
 ### 🚧 Upcoming Projects
 
-- [ ] AI Project — Goal: Deepen understanding of how AI works  
-- [ ] Web Scraping Project — Collect and process data from the web  
-- [ ] Open Source Contribution — *Still deciding which project to join*  
+- [ ] **Linux Kernel Assignments** — Linux kernel programming tasks inspired by the *Eudyptula Challenge* (In progress)  
+- [ ] **Open Source Contribution** — *Still deciding which project to join*  
+- [ ] **Custom Expense Tracker + Garage App** — Personal tool for managing expenses and garage inventory  
 
 ---
-
 
 ### 📊 GitHub Stats
 
