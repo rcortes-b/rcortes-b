@@ -9,9 +9,9 @@
 ### 🧠 About Me
 
 - 🎓 I studied at <strong>42</strong>, a project-based, peer-to-peer coding school focused on self-directed learning.
-- 💻 My main interests are system administration, kernel and low-level development, as well as building startup-style apps.
+- 💻 My main interests are Linux systems, DevOps, cloud infrastructure, and exploring kernel internals.
 - 🛠️ I’m comfortable working with <strong>C</strong>, <strong>C++</strong>, and UNIX-based environments.
-- 🌱 Currently deepening my understanding of systems programming and low-level development tools.
+- 🌱 Currently deepening my understanding of infrastructure automation, scalable platforms and kernel development.
 - 🚀 I’m looking for my first professional opportunity as a developer or systems technician where I can learn and contribute.
 - 📫 Feel free to contact me at: [raulcortes.dev@gmail.com](mailto:raulcortes.dev@gmail.com)
 
@@ -44,9 +44,7 @@
 
 ### 🚧 Upcoming Projects
 
-- [ ] **Linux Kernel Assignments** — Linux kernel programming tasks inspired by the *Eudyptula Challenge* (In progress)  
-- [ ] **Open Source Contribution** — *Still deciding which project to join*  
-- [ ] **Custom Expense Tracker + Garage App** — Personal tool for managing expenses and garage inventory  
+- [ ] **kfs from 42 school** — *Create my own kernel from scratch*
 
 ---
 
