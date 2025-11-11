@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raúl (`rcortes-b`)</h1>
 
 <p align="center">
-  Student at <strong>42</strong> and a problem solver.<br>
+  Software and Cloud Developer with special interest in Backend
 </p>
 
 ---
@@ -10,26 +10,28 @@
 
 - 🎓 I studied at <strong>42</strong>, a project-based, peer-to-peer coding school focused on self-directed learning.
 - 💻 My main interests are Linux systems, DevOps, cloud infrastructure, and exploring kernel internals.
-- 🛠️ I’m comfortable working with <strong>C</strong>, <strong>C++</strong>, and UNIX-based environments.
-- 🌱 Currently deepening my understanding of infrastructure automation, scalable platforms and kernel development.
-- 🚀 I’m looking for my first professional opportunity as a developer or systems technician where I can learn and contribute.
+- 🛠️ I’m comfortable working with <strong>Java</strong>, <strong>AWS</strong>, <strong>C</strong>, <strong>C++</strong>, and UNIX-based environments.
+- 🌱 Currently deepening my understanding of infrastructure automation, scalable platforms and microservices.
+- 🚀 I’m looking for my first professional opportunity as a developer or cloud architect where I can learn and contribute.
 - 📫 Feel free to contact me at: [raulcortes.dev@gmail.com](mailto:raulcortes.dev@gmail.com)
 
 ---
 
 ### 🔧 Technologies and Tools I've Worked With
 
-#### Favorites
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+#### Favorites  
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-2C3E50?style=for-the-badge&logo=solidity&logoColor=white)
 
 ---
 
@@ -39,12 +41,6 @@
 - 🔄 [`minishell`](https://github.com/rcortes-b/minishell): a minimalist shell implemented from scratch in C.
 - 🌐 [`ft_transcendence`](https://github.com/rcortes-b/ft_transcendence): a full-stack multiplayer game with backend and frontend features (collaborative project).
 - 🧱 More 42 and personal projects are available on my profile.
-
----
-
-### 🚧 Upcoming Projects
-
-- [ ] **kfs from 42 school** — *Create my own kernel from scratch*
 
 ---
 
