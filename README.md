@@ -17,6 +17,18 @@
 
 ---
 
+### 🎓 Education & Certificates
+
+![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)
+
+🎓 42 School Graduate - Common Core Completed (Junior Developer Level 10)
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+☁️ [AWS Foundational Certification - AWS Cloud Practitioner Certified](https://www.credly.com/badges/ca13229d-7768-478b-88fa-0761f3f96c13/public_url)
+
+---
+
 ### 🔧 Technologies and Tools I've Worked With
 
 #### Favorites  
