@@ -9,7 +9,7 @@
 ### 🧠 About Me
 
 - 🎓 I studied at <strong>42</strong>, a project-based, peer-to-peer coding school focused on self-directed learning.
-- 💻 My main interests are Linux systems, DevOps, cloud infrastructure, and exploring kernel internals.
+- 💻 My main interests are software development with special interest in backend, DevOps and cloud infrastructure.
 - 🛠️ I’m comfortable working with <strong>Java</strong>, <strong>AWS</strong>, <strong>C</strong>, <strong>C++</strong>, and UNIX-based environments.
 - 🌱 Currently deepening my understanding of infrastructure automation, scalable platforms and microservices.
 - 🚀 I’m looking for my first professional opportunity as a developer or cloud architect where I can learn and contribute.
