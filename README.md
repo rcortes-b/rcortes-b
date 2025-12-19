@@ -19,9 +19,10 @@
 
 ## 🎓 Education & Certificates
 
-![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white) --- [42 School Graduate - Common Core Completed (Junior Developer Level 10)](https://www.42network.org/)
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) --- [AWS Foundational Certification - AWS Cloud Practitioner Certified](https://www.credly.com/badges/ca13229d-7768-478b-88fa-0761f3f96c13/public_url)
+| Institution | Title |
+|-------------|-------|
+| ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white) | [42 School Graduate - Common Core Completed (Junior Developer Level 10)](https://www.42network.org/) |
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) | [AWS Foundational Certification - AWS Cloud Practitioner Certified](https://www.credly.com/badges/ca13229d-7768-478b-88fa-0761f3f96c13/public_url) |
 
 ---
 
@@ -52,18 +53,29 @@ Here are some of the projects I’ve worked on, categorized by type. Click the l
 ---
 
 ### 🌟 My Best Projects
+
+A curated collection of my favorite projects, selected to showcase the work I’m most proud of. Some projects may appear again in other sections, as this list serves as a highlight compilation of my broader portfolio
+
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| Proposito365 | A web application that lets you store your New Year’s resolutions and sends you a reminder the following year | Java, Springboot, Docker, MySQL, Maven, Flyway, JWT | [Repo](https://github.com/rcortes-b/Proposito365) |
-| **Project Name 2** | Key features or what you learned building it. | Python, Docker, AWS | [Repo](https://github.com/username/project2) |
+| **Proposito365** | A web application that lets you store your New Year’s resolutions and sends you a reminder the following year | Java, Spring Boot, Docker, MySQL, AWS, Maven, Flyway, JWT | [Repo](https://github.com/rcortes-b/Proposito365) |
+| **ft_transcendence** | Full-stack web application based on the classic Pong game, featuring login, tournaments, leaderboards, and more | Python, Django, JavaScript, Docker, PostgreSQL, Solidity, JWT | [Repo](https://github.com/rcortes-b/ft_transcendence) |
+| **swingy** | A 2D RPG game with a GUI built using Swing, featuring hero creation, combat, progression, and MVC design | Java, Maven, Hibernate, Swing | [Repo](https://github.com/rcortes-b/swingy) |
+| **Webserver** | Functional HTTP server from scratch. Handling requests, responses, and concurrent connections | C++, Makefile | [Repo](https://github.com/rcortes-b/Webserver) |
+| **GitLite** | A minimal Git implementation built from scratch in Python to explore and understand the inner workings of Git version control | Python | [Repo](https://github.com/rcortes-b/GitLite) |
+| **minishell** | A terminal interface with a Bash-like command-line experience | C, Makefile | [Repo](https://github.com/rcortes-b/minishell) |
+| **LinuxKernelAssignments** | A series of Linux kernel programming assignments based on the Eudyptula Challenge | Linux, C, Makefile | [Repo](https://github.com/rcortes-b/LinuxKernelAssignments) |
 
 ---
 
 ### 💻 Personal Projects
+
+A collection of larger projects listed from most recent to earliest, going beyond small exercises and requiring more time and deeper understanding
+
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **Project Name 3** | Brief description of the project goal or functionality. | C++, Kubernetes, Docker | [Repo](https://github.com/username/project3) |
-| **Project Name 4** | Highlight interesting technical challenges or learning. | Solidity, Web3, Node.js | [Repo](https://github.com/username/project4) |
+| **Proposito365** | A web application that lets you store your New Year’s resolutions and sends you a reminder the following year | Java, Spring Boot, Docker, MySQL, AWS, Maven, Flyway, JWT | [Repo](https://github.com/rcortes-b/Proposito365) |
+| **GitLite** | A minimal Git implementation built from scratch in Python to explore and understand the inner workings of Git version control | Python | [Repo](https://github.com/rcortes-b/GitLite) |
 
 ---
 
@@ -73,26 +85,30 @@ The projects are listed in descending order, from the most recent Outer Core pro
 
 | Project | Description | Tech Stack | Core | Link |
 |---------|-------------|------------|------|------|
-| **swingy** | A 2D RPG game with a GUI built using Swing, featuring hero creation, combat, progression, and MVC design | Java, Maven, Hibernate, Swing | Outter Core | [Repo](https://github.com/rcortes-b/swingy) |
-| **avaj-launcher** | A project simulating aircraft movements and weather conditions, showcasing OOP and design patterns | Java | Outter Core | [Repo](https://github.com/rcortes-b/avajlauncher-Java) |
-| **ft_ls** | An implementation of the "ls" command | C, Makefile | Outter Core | [Repo](https://github.com/rcortes-b/ft_ls) |
-| **LinuxKernelAssignments** | A series of Linux kernel programming assignments based on the Eudyptula Challenge | Linux, C, Makefile | Outter Core | [Repo](https://github.com/rcortes-b/LinuxKernelAssignments) |
-| **ft_linux** | A project focused on building a Linux-based system from scratch, exploring core operating system concepts and system administration skills | Linux, Bash | Outter Core | [Repo](https://github.com/rcortes-b/ft_linux-LFS-guide-) |
-| **ft_transcendence** | Full-stack web application based on the classic Pong game, featuring login, tournaments, leaderboards, and more | Python, Djando, JavaScript, Docker, PostgreSQL, Solidity, JWT | Common Core | [Repo](https://github.com/rcortes-b/ft_transcendence) |
+| **swingy** | A 2D RPG game with a GUI built using Swing, featuring hero creation, combat, progression, and MVC design | Java, Maven, Hibernate, Swing | Outer Core | [Repo](https://github.com/rcortes-b/swingy) |
+| **avaj-launcher** | A project simulating aircraft movements and weather conditions, showcasing OOP and design patterns | Java | Outer Core | [Repo](https://github.com/rcortes-b/avajlauncher-Java) |
+| **ft_ls** | An implementation of the "ls" command | C, Makefile | Outer Core | [Repo](https://github.com/rcortes-b/ft_ls) |
+| **LinuxKernelAssignments** | A series of Linux kernel programming assignments based on the Eudyptula Challenge | Linux, C, Makefile | Outer Core | [Repo](https://github.com/rcortes-b/LinuxKernelAssignments) |
+| **ft_linux** | A project focused on building a Linux-based system from scratch, exploring core operating system concepts and system administration skills | Linux, Bash | Outer Core | [Repo](https://github.com/rcortes-b/ft_linux-LFS-guide-) |
+| **ft_transcendence** | Full-stack web application based on the classic Pong game, featuring login, tournaments, leaderboards, and more | Python, Django, JavaScript, Docker, PostgreSQL, Solidity, JWT | Common Core | [Repo](https://github.com/rcortes-b/ft_transcendence) |
 | **Webserver** | Functional HTTP server from scratch. Handling requests, responses, and concurrent connections | C++, Makefile | Common Core | [Repo](https://github.com/rcortes-b/Webserver) |
 | **Inception** | A project focused on mastering Docker by creating a mini-container-based environment from scratch | Docker, Nginx | Common Core | [Repo](https://github.com/rcortes-b/Inception) |
 | **C++ Modules** | A collection of small C++ programs serving as an introduction to the C++ language | C++, Makefile | Common Core | [Repo](https://github.com/rcortes-b/CPP-Modules_42) |
 | **minishell** | A terminal interface with a Bash-like command-line experience | C, Makefile | Common Core | [Repo](https://github.com/rcortes-b/minishell) |
-| **pipex** | A program that replicates bash pipe behaviour | C, Makefile | Common Core | [Repo](https://github.com/rcortes-b/pipex) |
+| **Philosophers** | An introduction of how to work with POSIX threads and the use of mutexes to avoid data races | C, Makefile | Common Core | [Repo](https://github.com/rcortes-b/Philosophers) |
+| **pipex** | A program that replicates bash pipe behavior | C, Makefile | Common Core | [Repo](https://github.com/rcortes-b/pipex) |
 | **FdF** | 3D wireframe graphics project creating interactive 3D landscapes | C, Makefile, MiniLibX | Common Core | [Repo](https://github.com/rcortes-b/FdF) |
 | **push_swap** | An efficient sorting algorithm using 2 stacks | C, Makefile | Common Core | [Repo](https://github.com/rcortes-b/push_swap) |
 | **Born2beroot** | A introduction to System Administration and Virtual Machine | VMware, OpenSSH, Debian | Common Core | [Repo](https://github.com/rcortes-b/Born2beroot) |
-| **get_next_line** | A function to read a file and display his content line by line | C, Makefile | Common Core | [Repo](https://github.com/rcortes-b/get_next_line) |
+| **get_next_line** | A function to read a file and display its content line by line | C, Makefile | Common Core | [Repo](https://github.com/rcortes-b/get_next_line) |
 | **ft_printf** | An implementation of the well-known Printf function | C, Makefile | Common Core | [Repo](https://github.com/rcortes-b/Printf_Implementation) |
 | **Libft** | C library of implementations of the original standard C library functions | C, Makefile | Common Core | [Repo](https://github.com/rcortes-b/Libft) |
 
 
 ### 🎓 Other Projects
+
+A collection of additional smaller projects and coding challenges showcasing personal experimentation and learning
+
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | **Advent of Code 2025** | A yearly coding challenge event: Advent of Code | C++, Java, C, Python, Makefile | [Repo](https://github.com/rcortes-b/AdventOfCode-25) |
